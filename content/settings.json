@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1115,
+  "name": "Espaço Celly",
+  "domain": "espacocelly.netlify.app",
+  "short_name": "Espaço Celly",
+  "description": "",
+  "primary_color": "#ff61a3",
+  "secondary_color": "#ffc4d7",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
