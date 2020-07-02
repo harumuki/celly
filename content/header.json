@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Confira as condições para frete grátis!",
+    "link": "/pages/entrega"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +10,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Formas de pagamento",
+        "link": "/pages/pagamentos"
       }
     ],
     "phone_wpp": true,
@@ -20,7 +20,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
