@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/banner-frete-26-3.jpg",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "",
+          "end": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/corina-banner4.jpg",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
@@ -22,13 +22,13 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n##### **O cantinho da nossa loja, feito especialmente para as apaixonadas por Corina! Caso queira comprar alguma cor/tamanho/modelo que não esteja disponível na loja online, entre em contato com a gente (podemos encomendar a peça desejada pra você!): Whatsapp: [(47) 996997654](https://web.whatsapp.com/send?phone=%2B5547996997654) | E-mail: espacocelly@gmail.com | Direct no instagram [@espacocelly](https://www.instagram.com/espacocelly/)**\n\n<!--EndFragment-->"
     }
   ]
 }
