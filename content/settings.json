@@ -7,17 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.jpg",
+  "logo": "/img/uploads/logo-novo.png",
   "name": "Espaço Celly",
   "short_name": "Espaço Celly",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.jpeg",
+  "favicon": "/img/uploads/coracao.jpg",
   "country_code": "BR",
   "secondary_color": "#ffaed0",
   "icon": "/img/icon.png",
   "store_id": 1115,
   "description": "Completa linha de maquiagens, blusas e calças exclusivas e diversas opções para você ficar ainda mais linda. Temos diversas opções de fretes promocionais ou grátis.",
-  "large_icon": "/img/uploads/logo.jpg"
+  "large_icon": "/img/uploads/logo-novo.png"
 }
