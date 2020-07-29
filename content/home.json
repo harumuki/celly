@@ -7,15 +7,15 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-07-29T00:53:36.466Z",
+          "end": "2020-07-29T00:53:36.495Z",
+          "img": "/img/uploads/banner-frete-28-7-20.jpg"
+        },
+        {
           "img": "/img/uploads/corina-banner4.jpg",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
-        },
-        {
-          "start": "2020-07-29T00:53:36.466Z",
-          "end": "2020-07-29T00:53:36.495Z",
-          "img": "/img/uploads/banner-frete-28-7-20.jpg"
         },
         {
           "start": "2020-07-29T00:52:45.776Z",
