@@ -30,13 +30,14 @@
       "collection_id": null
     },
     {
-      "type": "offers-timer",
-      "max_hours": 48,
-      "start": "2020-08-12T15:32:37.531Z",
-      "end": "2020-08-14T15:36:14.305Z",
-      "offers": [
-        "5f05dec814ff772fde7e67ef"
-      ]
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "offers"
     }
   ]
 }
