@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ff61a3",
   "theme": {
-    "bootswatch": "materia",
-    "custom": "_"
+    "bootswatch": "lux",
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-novo.png",
