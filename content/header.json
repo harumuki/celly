@@ -4,14 +4,9 @@
     "link": "/pages/entrega"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Formas de pagamento",
-        "link": "/pages/pagamentos"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [],
