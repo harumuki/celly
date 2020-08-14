@@ -5,7 +5,7 @@
   "enableCheckout": true,
   "options": {
     "tawktoPropertyId": "5f34b0a4b7f44f406e946d8f",
-    "tawktoChatWidget": "default"
+    "tawktoChatWidget": "Enviar mensagem!"
   },
   "bodyAppend": "src/append/body"
 }
