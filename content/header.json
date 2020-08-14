@@ -6,10 +6,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Formas de pagamento",
         "link": "/pages/pagamentos"
       }
