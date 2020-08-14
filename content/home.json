@@ -7,20 +7,27 @@
       "autoplay": 600,
       "slides": [
         {
-          "start": "2020-07-29T00:53:36.466Z",
-          "end": "2020-07-29T00:53:36.495Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-frete-28-7-20.jpg"
         },
         {
           "img": "/img/uploads/corina-banner4.jpg",
-          "alt": "Banner sample two",
+          "alt": "",
           "start": "",
-          "end": ""
+          "end": "",
+          "link": "https://www.espacocelly.com.br/marca/corina?o=4"
         },
         {
           "start": "2020-07-29T00:52:45.776Z",
           "end": "2020-07-29T00:52:45.805Z",
           "img": "/img/uploads/banner-bolsa-28-7.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/deisy-perozzo-hidrablend-1-.jpg",
+          "link": "https://www.espacocelly.com.br/busca?b=hidrablend"
         }
       ]
     },
