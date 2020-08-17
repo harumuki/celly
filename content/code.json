@@ -1,5 +1,5 @@
 {
-  "css": "<!-- SnapWidget --><iframe src=\"https://snapwidget.com/embed/488032\" class=\"snapwidget-widget\" allowTransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden; width:100%; height:125px\"></iframe>\n#c-5f36ee0ef023684cdbda6922 {\ndisplay: none;\n}\n",
+  "css": "<!-- SnapWidget --><iframe src=\"https://snapwidget.com/embed/488032\" class=\"snapwidget-widget\" allowTransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden; width:100%; height:125px\"></iframe>\n#c-5f36ee0ef023684cdbda6922 {\ndisplay: none;\n}\n#c-5f36ee10f023684cdbda6926 {\ndisplay: none;\n}",
   "html_head": "",
   "html_body": ""
 }
