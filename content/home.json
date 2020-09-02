@@ -4,12 +4,12 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 1500,
+      "autoplay": 2000,
       "slides": [
         {
-          "start": "",
+          "start": "2020-09-02T02:44:15.701Z",
           "end": "",
-          "img": "/img/uploads/banner-frete-28-7-20.jpg"
+          "img": "/img/uploads/fret2020-agosto.jpg"
         },
         {
           "img": "/img/uploads/corina-banner4.jpg",
@@ -17,11 +17,6 @@
           "start": "",
           "end": "",
           "link": "https://www.espacocelly.com.br/marca/corina?o=4"
-        },
-        {
-          "start": "2020-07-29T00:52:45.776Z",
-          "end": "2020-07-29T00:52:45.805Z",
-          "img": "/img/uploads/banner-bolsa-28-7.jpg"
         },
         {
           "start": "",
