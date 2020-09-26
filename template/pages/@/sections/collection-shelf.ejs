@@ -28,7 +28,15 @@ if (opt.sort || opt.collection_id) {
     if (opt.sort) {
       search.setSortOrder(opt.sort)
     }
-    await search.fetch()
+    await new Promise((resolve, reject) => {
+      const fetch = isRetry => {
+        search.fetch().then(resolve).catch(err => {
+          if (!isRetry) return setTimeout(() => fetch(true), 5000)
+          reject(err)
+        })
+      }
+      setTimeout(fetch, 100)
+    })
     items = search.getItems()
   }
 } else {
