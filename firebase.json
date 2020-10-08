@@ -71,8 +71,9 @@
   "functions": {
     "predeploy": [
       "cp -r template functions/; cp -r content functions/; cp .bundles.json functions/",
-      "cp -r node_modules/@ecomplus/widget-* functions/template/pages/ 2>/dev/null || :",
-      "rm -rf functions/template/**/node_modules"
+      "mkdir -p functions/template/pages/@ecomplus",
+      "cp -r node_modules/@ecomplus/widget-* functions/template/pages/@ecomplus/ 2>/dev/null || :",
+      "rm -rf functions/template/pages/**/node_modules"
     ],
     "postdeploy": "rm -rf functions/template; rm -rf functions/content",
     "source": "functions"
