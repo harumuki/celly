@@ -3,6 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
+  "disablePages": true,
   "options": {
     "tawktoPropertyId": "5f34b0a4b7f44f406e946d8f",
     "tawktoChatWidget": "Enviar mensagem!"
