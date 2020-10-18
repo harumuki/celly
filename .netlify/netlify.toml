@@ -1,8 +1,3 @@
-[[redirects]]
-  from = "/ruby-rose"
-  to = "/marca/ruby-rose"
-  status = 301
-
 [build]
   publish = "publish"
   functions = "functions-zip"
