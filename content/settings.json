@@ -1,7 +1,7 @@
 {
   "domain": "www.espacocelly.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ff61a3",
+  "primary_color": "#000333",
   "theme": {
     "bootswatch": "lux",
     "custom": "_"
