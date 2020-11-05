@@ -13,23 +13,16 @@
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/corina-banner4.jpg",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "link": "https://www.espacocelly.com.br/marca/corina?o=4"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/deisy-perozzo-hidrablend-1-.jpg",
           "link": "https://www.espacocelly.com.br/busca?b=hidrablend"
         },
         {
-          "start": "2020-09-02T02:46:07.373Z",
+          "start": "",
           "end": "",
-          "img": "/img/uploads/banner-bolsa-28-7.jpg",
-          "link": "https://espacocelly.com.br/bolsadepalha"
+          "img": "/img/uploads/corina-5-11.jpg",
+          "link": "https://espacocelly.com.br/marca/corina"
         }
       ]
     },
@@ -37,25 +30,33 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "title": "Populares"
+      "title": "Populares",
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news",
-      "title": "Lançamentos"
+      "title": "Lançamentos",
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "offers",
-      "title": "Ofertas"
+      "title": "Ofertas",
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "sales",
-      "title": "Mais Vendidos"
+      "title": "Mais Vendidos",
+      "limit": 12,
+      "page": 1
     }
   ]
 }
