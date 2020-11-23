@@ -7,6 +7,13 @@
       "autoplay": 2000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/black-friday-esquenta-note.jpg",
+          "mobile_img": "/img/uploads/black-friday-esquenta-mobile.jpg",
+          "link": "https://espacocelly.com.br/black-friday"
+        },
+        {
           "start": "2020-09-02T02:44:15.701Z",
           "end": "",
           "img": "/img/uploads/frete-banner-9-11-20.jpg",
@@ -24,12 +31,6 @@
           "end": "",
           "img": "/img/uploads/deisy-perozzo-hidrablend-1-.jpg",
           "link": "https://www.espacocelly.com.br/busca?b=hidrablend"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/black-friday-esquenta-note.jpg",
-          "mobile_img": "/img/uploads/black-friday-esquenta-mobile.jpg"
         }
       ]
     },
