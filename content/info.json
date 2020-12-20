@@ -1,18 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "FRETE GRÁTIS PARA SUL E SUDESTE confira as regras",
+    "link": "https://espacocelly.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Dependendo do valor da sua compra, parcelamos em até 4x sem juros! Ou 12x com juros."
+    "text": "4x sem juros!"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita!"
   },
   "promo": {
     "show": true,
-    "text": "Fiquem ligadinhas nas nossas redes sociais! "
+    "text": "5%  de desconto para depósito/transferência"
   }
 }
