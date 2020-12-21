@@ -36,6 +36,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -66,6 +70,12 @@
       "title": "Mais Vendidos",
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2020-12-21T12:05:35.169Z",
+      "end": "2021-01-01T03:00:00.000Z"
     }
   ]
 }
