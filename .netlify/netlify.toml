@@ -1,4 +1,44 @@
 [[redirects]]
+  from = "/playboy-duo-sun-lip-lip-aqua-colecao-tropicalia"
+  to = "/dapop-lip-oil-ultra-hidratante-manteiga-karite"
+  status = 301
+
+[[redirects]]
+  from = "/luisance-serum-pocao-de-princesa"
+  to = "/search?term=s%C3%A9rum"
+  status = 301
+
+[[redirects]]
+  from = "/dapop-po-translucido-solto"
+  to = "/search?term=p%C3%B3+dalla+e+playboy"
+  status = 301
+
+[[redirects]]
+  from = "/urban-art-queen-fashion-hidratante-pre-make"
+  to = "/dapop-hidratante-pre-make"
+  status = 301
+
+[[redirects]]
+  from = "/404?url=/busca"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/uni-makeup-primer-hidratante"
+  to = "/search?term=primer"
+  status = 301
+
+[[redirects]]
+  from = "/ruby-face-kit-de-pinceis-para-maquiagem-branco-e-rosa"
+  to = "/search?term=kit+pincéis"
+  status = 301
+  
+[[redirects]]
+  from = "/playboy-fixador-bruma-brilho-efeito-glow-100-ml"
+  to = "/search?term=bruma"
+  status = 301
+
+[[redirects]]
   from = "/ludurana"
   to = "/marca/ludurana"
   status = 301
